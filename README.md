@@ -1,8 +1,3 @@
-Here is a comprehensive `README.md` file incorporating all the details from your document, including the hardware setup, installation steps, code implementation logic, and references found in the later pages of the PDF.
-
-You can copy this directly into GitHub.
-
-```markdown
 # Human Detection Using Raspberry Pi
 
 A real-time human detection system implemented on a Raspberry Pi using OpenCV and TensorFlow Lite. [cite_start]This project aims to identify and locate human figures in video streams instantly with minimal delay[cite: 70, 71].
